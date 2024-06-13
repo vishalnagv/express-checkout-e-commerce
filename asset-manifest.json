@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/express-checkout-e-commerce/static/css/main.6892806d.css",
+    "main.js": "/express-checkout-e-commerce/static/js/main.f8f362d6.js",
+    "static/js/453.385c83c0.chunk.js": "/express-checkout-e-commerce/static/js/453.385c83c0.chunk.js",
+    "index.html": "/express-checkout-e-commerce/index.html",
+    "main.6892806d.css.map": "/express-checkout-e-commerce/static/css/main.6892806d.css.map",
+    "main.f8f362d6.js.map": "/express-checkout-e-commerce/static/js/main.f8f362d6.js.map",
+    "453.385c83c0.chunk.js.map": "/express-checkout-e-commerce/static/js/453.385c83c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6892806d.css",
+    "static/js/main.f8f362d6.js"
+  ]
+}
